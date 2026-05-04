@@ -7,6 +7,6 @@ This project contains Raldi's crackhouse. This port is by the lovely people over
 Use truffled.lol for a better port and they are the ones who provided the html
 
 ### ⛑ Need support?
-go to truffled.lol
+go to truffled.lol and join their discord
 
 Good luck beating it!
